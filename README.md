@@ -169,10 +169,10 @@ Data is managed using SQLite databases and accessed through parameterised SQL qu
 
 ## Recordings  
 
-Reservation recording: Reservations Video - Made with Clipchamp.mp4
-Cancelation recording: Cancelation video.mp4
-Login recording (owner, staff, predictions): Login Window.webm
-Forgot Password recording (TWILIO Trial ran out, so no messages can sent sent currently: Forgot Password video - Made with Clipchamp
+- Reservation recording: Reservations Video - Made with Clipchamp.mp4
+- Cancelation recording: Cancelation video.mp4
+- Login recording (owner, staff, predictions): Login Window.webm
+- Forgot Password recording (TWILIO Trial ran out, so no messages can sent sent currently: Forgot Password video - Made with Clipchamp
 
 ## Installation
 
