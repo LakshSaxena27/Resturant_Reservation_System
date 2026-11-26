@@ -167,22 +167,12 @@ Data is managed using SQLite databases and accessed through parameterised SQL qu
 6. Notification SMS is sent to management.
 7. Reservation becomes available in staff and owner dashboards.
 
-## Screenshots
+## Recordings  
 
-### Main Menu
-*Add screenshot here*
-
-### Reservation Booking System
-*Add screenshot here*
-
-### Staff Dashboard
-*Add screenshot here*
-
-### Owner Dashboard
-*Add screenshot here*
-
-### Analytics & Forecasting Dashboard
-*Add screenshot here*
+Reservation recording: Reservations Video - Made with Clipchamp.mp4
+Cancelation recording: Cancelation video.mp4
+Login recording (owner, staff, predictions): Login Window.webm
+Forgot Password recording (TWILIO Trial ran out, so no messages can sent sent currently: Forgot Password video - Made with Clipchamp
 
 ## Installation
 
